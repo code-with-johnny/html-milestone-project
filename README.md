@@ -31,8 +31,8 @@ If you're having trouble completing this project or you want to compare your sol
 You'll need to use git and switch to a branch named `solution`.
 
 ```
-> git fetch --all
-> git checkout solution
+git fetch --all
+git checkout solution
 ```
 
 Once you do that, your code editor should update and you can view the `index.html` file.
