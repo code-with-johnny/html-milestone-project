@@ -4,6 +4,14 @@ An HTML project template for the software developer roadmap.
 
 This project is a portfolio for Joseph The Cat. The goal is to get you acquainted with common HTML tags such as headings, paragraphs, divs, lists, links, tables, and forms.
 
+## Getting started
+
+To get started on this project, run the following command in your terminal.
+
+```
+git clone git@github.com:code-with-johnny/html-milestone-project.git && cd html-milestone-project
+```
+
 ## Requirements
 
 1. This project is to be built using <em>only</em> HTML.
