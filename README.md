@@ -12,6 +12,8 @@ To get started on this project, run the following command in your terminal.
 git clone git@github.com:code-with-johnny/html-milestone-project.git && cd html-milestone-project
 ```
 
+If you open up the project in vscode, you should see an `index.html` file, which is where you'll put all your code.
+
 ## Requirements
 
 1. This project is to be built using <em>only</em> HTML.
