@@ -19,10 +19,11 @@ If you open up the project in vscode, you should see an `index.html` file, which
 1. This project is to be built using <em>only</em> HTML.
 2. There should be a navigation bar at the top that links to different sections of the page.
 3. The sections should be "About", and "Contact".
-4. The "About" section should include Joseph's story and an HTML `<table>` that displays some facts about Joseph and his siblings.
-5. The "Contact" section should include a form with three fields (name, email, and message) and a submit button. The submit button should not work unless all three fields are filled in (a.k.a the fields are required).
-6. At the bottom of the page there should be a link to scroll back to the top.
-7. Finally, there should be a footer section with a copyright message.
+4. Above the about and contact sections should be a "call to action" area, which should convince a user to signup for Joseph's email list. There should be a form with a required email field.
+5. The "About" section should include Joseph's story and an HTML `<table>` that displays some facts about Joseph and his siblings.
+6. The "Contact" section should include a form with three fields (name, email, and message) and a submit button. The submit button should not work unless all three fields are filled in (a.k.a the fields are required).
+7. At the bottom of the page there should be a link to scroll back to the top.
+8. Finally, there should be a footer section with a copyright message.
 
 ## How to run the HTML in the browser
 
