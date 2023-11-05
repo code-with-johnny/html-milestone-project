@@ -33,7 +33,7 @@ Another method is to simply drag and drop the HTML file into a new tab on your b
 
 ## Example
 
-![Finished product](/assets/gif/finished-project.gif)
+![Finished product](/assets/img/example.png)
 
 ## Solution
 
