@@ -16,6 +16,8 @@ If you open up the project in vscode, you should see an `index.html` file, which
 
 ## Requirements
 
+XXX: TODO - update based on new design
+
 1. This project is to be built using <em>only</em> HTML.
 2. There should be a navigation bar at the top that links to different sections of the page.
 3. The sections should be "About", and "Contact".
